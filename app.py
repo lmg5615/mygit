@@ -7,3 +7,8 @@ prtint("test4")
 prtint("test4")
 prtint("test4")
 prtint("test4")
+
+print("ver3")
+print("ver3")
+print("ver3")
+print("ver3")
